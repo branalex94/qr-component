@@ -1,0 +1,14 @@
+.main__card {
+  display: flex;
+  flex-direction: column;
+  margin: 0 1.5rem;
+  padding: 1rem;
+  background-color: var(--White);
+  border-radius: 1rem;
+}
+
+@media (min-width: 476px) {
+  .main__card {
+    max-width: 20rem;
+  }
+}

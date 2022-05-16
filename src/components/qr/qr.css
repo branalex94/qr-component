@@ -1,0 +1,9 @@
+.qr-container {
+  border-radius: 0.7rem;
+  overflow: hidden;
+}
+
+.qrImage {
+  height: auto;
+  width: 100%;
+}
